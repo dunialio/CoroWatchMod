@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "eggoez",
+    "longName": "Inspired from Very fuzzy time mod & translated to Jowo (Beta Version)",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "menu_icon",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "CoroWatchBeta",
+    "uuid": "3988a203-61c3-4e17-8640-4c7ae8a511b1",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
